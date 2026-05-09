@@ -1,4 +1,4 @@
-# ModeloPredictivoClasificaci-nMulticlaseAtaquesIntrusi-nRedesIoTmedianteT-cnicasMachineLearning
+# Modelo predictivo para clasificación multiclase de ataques de intrusión en redes IoT mediante técnicas de machine learning 
 
 <img width="1910" height="1073" alt="Captura de pantalla 2026-05-09 010014" src="https://github.com/user-attachments/assets/7278ed06-ce98-40c6-bb9a-de3bfc3c8567" />
 
